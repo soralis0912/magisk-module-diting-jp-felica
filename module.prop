@@ -1,0 +1,7 @@
+id=diting-jp-felica
+name=Patch for Mi 12T Pro Japan
+version=v13
+versionCode=13
+author=soralis0912
+description=Mi 12T Pro 日本版用パッチ
+updateJson=https://raw.githubusercontent.com/soralis0912/magisk-module-diting-jp-felica/master/update.json
