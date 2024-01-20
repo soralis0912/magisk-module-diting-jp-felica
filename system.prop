@@ -6,4 +6,5 @@ ro.product.product.model=22081212R
 ro.product.product.model=22081212R
 ro.product.odm.model=22081212R
 ro.product.system_ext.model=22081212R
+ro.miui.build.region=jp
 ro.vendor.se.type=eSE,HCE,UICC
