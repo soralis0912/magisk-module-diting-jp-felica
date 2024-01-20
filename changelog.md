@@ -1,9 +1,8 @@
 ### v1 - 2022/12/18
 * Initial Release
 
-### v1 - 2023/22/37
-* Fix Versions 
-* Update Binaries
-
-### v2 - 2023/22/37
+### v2 - 2023/11/27
 * Add eUICC support
+
+### v3 - 2024/01/20
+* Add SIM2 slot support
